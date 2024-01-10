@@ -1,5 +1,5 @@
 :root{
-    --1st-color: rgb(84, 5, 5);
+    --1st-color: rgb(84, 92, 158);
 }
 body{
     font-family: 'Titillium Web', sans-serif;
@@ -15,12 +15,12 @@ height: 100px;
 }
 
 .nav-link{
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .nav-link.active,
 .nav-link:focus,
 .nav-link:hover{
-    color: rgb(219, 199, 17);
+    color: rgb(84, 5, 5);
 }
 
 .blok{
