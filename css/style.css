@@ -1,5 +1,5 @@
 :root{
-    --1st-color:rgb(27, 3, 59);
+    --1st-color: rgb(84, 5, 5);
 }
 body{
     font-family: 'Titillium Web', sans-serif;
@@ -11,6 +11,7 @@ opacity: 100%;
 position: fixed;
 width: 100%;
 z-index: 999;
+height: 100px;
 }
 
 .nav-link{
