@@ -1,5 +1,5 @@
 :root{
-    --1st-color: rgb(84, 92, 158);
+    --1st-color: rgb(255, 255, 255);
 }
 body{
     font-family: 'Titillium Web', sans-serif;
@@ -15,13 +15,13 @@ height: 80px;
 }
 
 .nav-link{
-    color: rgb(84, 5, 5);
+    color: rgb(16, 21, 71);
     font-weight: bold;
 }
 .nav-link.active,
 .nav-link:focus,
 .nav-link:hover{
-    color: rgb(255, 254, 254);
+    color: rgb(110, 110, 110);
 }
 
 .blok{
@@ -30,7 +30,7 @@ height: 80px;
     height: 50px;
 }
 .search.form-control{
-    background-color: rgba(240, 248, 255, 0.144) ;
+    background-color: rgb(110, 110, 110);
     border-right: 1px solid rgb(219, 17, 84);
 }
 .search svg{
@@ -53,7 +53,7 @@ border-color: brown;
     height: 200px;
 }
 .landing{
-    background-color: violet;
+    background-color: rgb(110, 110, 110);
     min-height: calc(100vh - 50px);
 }
 .main-title::after{
@@ -73,8 +73,8 @@ transform: translateX(-50%);
     font-size: small;
 }
 .footer{
-    background-color: var(--1st-color);
+    background-color: white ;
 }
 .row ul a{
-    text-decoration: none;
+    text-decoration:double;
 }
