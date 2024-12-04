@@ -18,10 +18,8 @@ Ajout de fonctionnalités interactives.
 Dynamisation des éléments du site (animations, interactions utilisateur).
 
 ## Instructions d'installation
-1- Clonez le dépôt :
-''' bash 
-git clone https://github.com/nom-utilisateur/nom-repo.git
-2- Ouvrez le fichier index.html dans un navigateur pour visualiser le site.
+  - Clonez le dépôt 
+  - Ouvrez le fichier index.html dans un navigateur pour visualiser le site.
 
 ## Auteur
 Réalisé par : Fatma Aljane
